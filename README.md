@@ -1,4 +1,4 @@
-# CRUD(create, read, update, delete)System
+# StudentHub
 
 ## Overview
 
